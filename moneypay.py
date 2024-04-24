@@ -64,8 +64,7 @@ with chats:
         vectorized_user_input = tfidf_vectorizer.transform([user_input_processed])
         similarity_score = cosine_similarity(vectorized_user_input, corpus)
         argument_maximum = similarity_score.argmax()
-
-        chats.write(df['Response'].iloc[argument_maximum])
+        return(df['Response'].iloc[argument_maximum])
 
 bot_greetings = ['Hello user, Welcome to Moneypay, I am Missy, How can I help you?',
     'Welcome to MoneyPay, I am Missy, How are you today? How may I be of service to you?',
