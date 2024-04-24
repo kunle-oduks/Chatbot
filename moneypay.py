@@ -118,7 +118,7 @@ with open('user_history.txt') as f:
     reader = csv.reader(f)
     data1 = list(reader)
 
-with open('user_history.txt') as f:
+with open('bot_history.txt') as f:
     reader = csv.reader(f)
     data2 = list(reader)
 
