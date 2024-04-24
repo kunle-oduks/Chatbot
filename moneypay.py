@@ -99,6 +99,7 @@ elif  user_message == '':
     chats.write('')
 else:
     response = responder(user_message)
+    chats.write(f"\nChatbot: {response}")
     user_history.append(user_message)
     bot_history.append(response)
 
