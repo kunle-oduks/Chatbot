@@ -1,0 +1,49 @@
+Question: 'How do I set up an MoneyPay merchant account'
+Answer: 'It's really easy! Go to Google Play and download MoneyPay. Then, follow the instructions to register your account.	After setting up your account, send an email to ng-support@MoneyPay-inc.com requesting for an MoneyPay merchant registration form.'
+
+Question: 'What documents are required to complete my registration?'
+Answer: 'Your Bank Verification Number (BVN).A utility or another bill dated no later than three months prior to merchant registration as proof of your address.Copy of your national ID card, driver’s license, or international passport.	1 passport photo.'
+
+Question: 'Can I proceed with registration if I do not have the Corporate Affairs Commission (CAC) or business name documents?'
+Answer:   'Yes, you can proceed to register as an MoneyPay merchant without this document.'
+
+Question: 'What do I do after registering as an MoneyPay merchant?'
+Answer:   'Start sending or receiving money! Remember that you only need the phone number of another MoneyPay user to make a transaction. You can also receive payments from 	   your customers.'
+
+Question: 'Is there a limit on the maximum transaction amount for a merchant?'
+Answer:   'You can receive and send up to 5 million Naira daily as an MoneyPay merchant.'
+
+Question:  What do I do when a transaction is made via the POS but I do not see the funds credited in my wallet?
+Answer:    Please report this immediately in the Support tab in the MoneyPay app. Remember to include the transaction number and a screenshot of the transaction receipt
+
+Question:  How long does it take for a reversal to happen?
+Answer:    Reversals on the system happen instantly to the cardholder’s account.
+
+Question:  'What do I do if my POS shows that the reversal is approved but cardholder’s account is still debited? Please request for the cardholder to resolve this 	    with their bank.'
+Answer:    'Please ensure that the reversal process completes before pulling out the user’s card as this could lead to the POS not being able to read the card or its 	    associated account details.'
+
+Question:  What do I do when I receive a debit alert but there is no credit in my wallet? 
+Answer: 'Please contact ng-support@MoneyPay-inc.com and send the following information Transaction number. A screenshot of the SMS or email alert from your bank.Including the first 6 and last 4 digits of your ATM card in a message. (Please do not give your full card details to anybody including MoneyPay staff)'
+
+Question:   'What do I do when I am debited more than what is in my wallet?'
+Answer:     'Please send your bank statement with the time period to ng-support@MoneyPay-inc.com.'
+
+
+Question:   'What do I do when my wallet gets debited twice for one bank transfer but the transfer is only shown once in the receiver's account?'
+Answer:     'Kindly provide the following details in the Support tab in the MoneyPay app for MoneyPay merchant account-	MoneyPay account number,Bank account number to be credited,	Bank name, Transfer amount,	Transaction reference(s)'
+
+Question:  'What do I do when my wallet gets debited and the person did not receive the money I sent?
+Answer:    'On that particular transaction details page, tap Chat with MoneyPay Support and the details of the transaction will be automatically loaded in the text input field.Then tap send.You can also include a message to let our support team know more about the issue.	Please note that transactions can take some time to reflect in your account. If it takes too long, please advise the customer to be patient as it could take time based on the status of the network connection.'
+
+
+Question:   'What do I do when my wallet gets debited for a transfer but the receiver did not get a transaction alert?
+Answer:   'Please note that transaction alerts can take a few days to arrive. We recommend for you to advise the customer to check their MoneyPay balance for the transfer 	   before alerts arrive.'
+
+Question:  'What do I do when I mistakenly transfer money to a wrong account number?'
+Answer:    'If you sent money to the wrong account number, we suggest you contact the person of the wrong account immediately to recover your money. MoneyPay is not 	    responsible for money collections during incorrect transactions amongst peers.'
+
+
+
+
+
+
